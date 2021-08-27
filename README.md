@@ -10,6 +10,8 @@ https://stackoverflow.com/questions/4340350/how-to-check-if-a-file-exists-from-i
 
 https://www.jamsscheduler.com/blog/how-to-execute-a-bat-file-within-a-powershell-job/
 
+https://stackoverflow.com/questions/1732250/check-if-file-exist-and-run-a-batch-file-in-powershell
+
 # references
 
 https://www.sqlshack.com/reading-file-data-with-powershell/
