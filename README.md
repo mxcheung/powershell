@@ -1,5 +1,9 @@
 # powershell
 
+# How to Automate PowerShell Scripts with Task Scheduler
+
+https://blog.netwrix.com/2018/07/03/how-to-automate-powershell-scripts-with-task-scheduler/
+
 # run a .bat if file exists
 
 https://stackoverflow.com/questions/4340350/how-to-check-if-a-file-exists-from-inside-a-batch-file
