@@ -1,5 +1,9 @@
 # powershell
 
+# run a .bat if file exists
+
+https://stackoverflow.com/questions/4340350/how-to-check-if-a-file-exists-from-inside-a-batch-file
+
 
 # references
 
