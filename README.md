@@ -8,6 +8,7 @@ https://blog.netwrix.com/2018/07/03/how-to-automate-powershell-scripts-with-task
 
 https://stackoverflow.com/questions/4340350/how-to-check-if-a-file-exists-from-inside-a-batch-file
 
+https://www.jamsscheduler.com/blog/how-to-execute-a-bat-file-within-a-powershell-job/
 
 # references
 
